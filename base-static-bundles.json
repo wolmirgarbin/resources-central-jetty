@@ -1,0 +1,89 @@
+{
+  "bundles": [
+    {
+      "type": "css",
+      "name": "static.css",
+      "files": [
+       "thema/css/theme-default/bootstrap.css",
+
+       "thema/css/theme-viasoft/materialadmin.css",
+       /*"thema/css/theme-default/font-awesome.min.css",
+       "thema/css/theme-default/material-design-iconic-font.min.css",
+       "thema/css/theme-default/glyphicons.css",
+       "thema/css/theme-default/libs/DataTables/jquery.dataTables.css",
+       "thema/css/theme-default/libs/DataTables/extensions/dataTables.colVis.css",
+       "thema/css/theme-default/libs/DataTables/extensions/dataTables.tableTools.css",
+       "thema/css/theme-default/libs/select2/select2.css",
+       "thema/css/theme-default/libs/dropzone/dropzone-theme.css",
+       "thema/css/theme-default/libs/bootstrap-datepicker/datepicker3.css",
+       "thema/css/theme-default/libs/bootstrap-colorpicker/bootstrap-colorpicker.css",
+       "thema/css/theme-default/libs/fullcalendar/fullcalendar.css",
+       "thema/css/theme-default/libs/summernote/summernote.css",
+       "thema/css/theme-default/libs/toastr/toastr.css",
+       "material-floating-button/dist/mfb.css",*/
+       "all/css/custom.css"
+      ]
+    },
+
+    {
+      "type": "js",
+      "name": "static.js",
+      "files": [
+        "i18n/lib/i18n-core.js",
+        "i18n/properties.js",
+
+        "thema/js/libs/jquery/jquery-1.11.2.min.js",
+        /*"thema/js/libs/jquery/jquery-migrate-1.2.1.min.js",
+        "thema/js/libs/jquery-ui/jquery-ui.min.js",
+        "thema/js/libs/bootstrap/bootstrap.min.js",
+        "thema/js/libs/spin.js/spin.min.js",
+        "thema/js/libs/jquery-validation/dist/jquery.validate.js",
+        "thema/js/libs/DataTables/jquery.dataTables.min.js",
+        "thema/js/libs/DataTables/extensions/ColVis/js/dataTables.colVis.min.js",
+        "thema/js/libs/DataTables/extensions/TableTools/js/dataTables.tableTools.min.js",
+        "thema/js/libs/autosize/jquery.autosize.min.js",
+        "thema/js/libs/nanoscroller/jquery.nanoscroller.min.js",
+        "thema/js/libs/toastr/toastr.js",
+        "thema/js/libs/select2/select2.js",
+        "thema/js/libs/inputmask/jquery.inputmask.bundle.min.js",
+        "thema/js/libs/bootstrap-datepicker/bootstrap-datepicker.js",
+        "thema/js/libs/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.js",
+        "thema/js/libs/bootstrap-colorpicker/bootstrap-colorpicker.min.js",
+        "thema/js/libs/summernote/summernote.min.js",
+        "thema/js/libs/lazyautocomplete/lazy-auto-complete.js",
+        "thema/js/libs/serialize-json/jquery.serializejson.js",
+        "thema/js/libs/moment/moment.js",
+        "thema/js/libs/fullcalendar/fullcalendar.js",
+        "thema/js/libs/fullcalendar/pt-br.js",
+        "thema/js/libs/bootbox.min.js",
+        "thema/js/libs/match-height/match-height.js",
+        "thema/js/libs/jquery-mask/jquery.mask.min.js",
+        "thema/js/libs/jquery-price/jquery.priceformat.min.js",
+        "thema/js/core/source/App.js",
+        "thema/js/core/source/AppNavigation.js",
+        "thema/js/core/source/AppOffcanvas.js",
+        "thema/js/core/source/AppCard.js",
+        "thema/js/core/source/AppForm.js",
+        "thema/js/core/source/AppNavSearch.js",
+        "thema/js/core/source/AppVendor.js",
+        "thema/js/core/demo/Demo.js",
+        "thema/js/core/demo/DemoFormComponents.js",
+        "thema/js/core/demo/DemoFormEditors.js",
+
+        "all/js/AppCore.js",
+        "all/js/all-pages.js",
+        "all/js/datatable-utils.js",
+        "all/websocket/sockjs-0.3.4.min.js",
+        "all/websocket/stomp.min.js",
+        "all/websocket/websocket.js",
+
+        "eris/eris.js",
+        "eris/vs-autocomplete/vs-autocomplete.js",
+        "eris/vs-modal/vs-modal.js",*/
+
+        "material-floating-button/dist/lib/modernizr.touch.js",
+        "material-floating-button/dist/mfb.js"
+      ]
+    }
+  ]
+}
